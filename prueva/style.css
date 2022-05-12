@@ -1,0 +1,9 @@
+img{
+  width: 100px;
+}
+
+@keyframes maover {
+   0%{
+     transform: translate(100%);
+   }
+}
