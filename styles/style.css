@@ -165,6 +165,10 @@ div.infod{
     background: var(--color-fondo);
     text-align: center
 }
+div.html{
+    color: red;
+    width: 10%;
+}
 div.infod > h2{
     padding-bottom: 5px;
     font-family: 'Inconsolata', monospace;
